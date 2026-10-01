@@ -152,7 +152,6 @@ const babar = {
 ---
 
 # 🏆 Certifications
-```html
 <table>
   <tr>
     <td align="center" width="250">
@@ -164,7 +163,7 @@ const babar = {
     </td>
 
     <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Microsoft-AZ--400-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-400" />
+      <img src="https://img.shields.io/badge/Microsoft-AZ--400-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AZ-400" />
       <br />
       <sub><b>Microsoft Certified</b></sub>
       <br />
@@ -174,11 +173,11 @@ const babar = {
 
   <tr>
     <td align="center" width="250">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Cloud Practitioner" />
       <br />
       <sub><b>Amazon Web Services</b></sub>
       <br />
-      <sub>☁️ Cloud Practitioner · 2026</sub>
+      <sub>☁️️ Cloud Practitioner · 2026</sub>
     </td>
 
     <td align="center" width="250">
@@ -190,7 +189,6 @@ const babar = {
     </td>
   </tr>
 </table>
-```
 
 
 ---
