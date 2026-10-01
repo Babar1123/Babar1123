@@ -152,39 +152,46 @@ const babar = {
 ---
 
 # 🏆 Certifications
+```html
 <table>
   <tr>
-
     <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-104"/><br/>
-      <sub><b>Microsoft Certified</b></sub><br/>
+      <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AZ-104" />
+      <br />
+      <sub><b>Microsoft Certified</b></sub>
+      <br />
       <sub>☁️ Azure Administrator Associate</sub>
     </td>
 
     <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Microsoft-AZ--400-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Microsoft AZ-400"/><br/>
-      <sub><b>Microsoft Certified</b></sub><br/>
+      <img src="https://img.shields.io/badge/Microsoft-AZ--400-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-400" />
+      <br />
+      <sub><b>Microsoft Certified</b></sub>
+      <br />
       <sub>🚀 DevOps Engineer Expert</sub>
     </td>
-
   </tr>
 
   <tr>
-
     <td align="center" width="250">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner"/><br/>
-      <sub><b>Amazon Web Services</b></sub><br/>
+      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+      <br />
+      <sub><b>Amazon Web Services</b></sub>
+      <br />
       <sub>☁️ Cloud Practitioner · 2026</sub>
     </td>
 
     <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Huawei-HCCDA_Tech_Essential-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei HCCDA"/><br/>
-      <sub><b>Huawei Certified</b></sub><br/>
+      <img src="https://img.shields.io/badge/Huawei-HCCDA_Tech_Essential-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei HCCDA" />
+      <br />
+      <sub><b>Huawei Certified</b></sub>
+      <br />
       <sub>🌐 HCCDA Tech Essential · 2025</sub>
     </td>
-
   </tr>
 </table>
+```
+
 
 ---
 
