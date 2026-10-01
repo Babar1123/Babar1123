@@ -180,13 +180,12 @@ const babar = {
       <sub>☁️️ Cloud Practitioner · 2026</sub>
     </td>
 
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Huawei-HCCDA_Tech_Essential-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei HCCDA" />
-      <br />
-      <sub><b>Huawei Certified</b></sub>
-      <br />
+     <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Huawei-HCCDA_Tech_Essential-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei HCCDA"/><br/>
+      <sub><b>Huawei Certified</b></sub><br/>
       <sub>🌐 HCCDA Tech Essential · 2025</sub>
     </td>
+
   </tr>
 </table>
 
